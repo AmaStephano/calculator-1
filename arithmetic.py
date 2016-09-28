@@ -1,9 +1,10 @@
 def add(num1, num2):
-	"""returns the sum of 2 numbers"""
+    """returns the sum of 2 numbers"""
     return num1 + num2
 
 def subtract(num1, num2):
-    pass
+    """returns between 2 numbers"""
+    return num1 - num2
 
 def multiply(num1, num2):
     pass
