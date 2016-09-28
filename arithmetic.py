@@ -11,10 +11,12 @@ def multiply(num1, num2):
     return num1 * num2
 
 def divide(num1, num2):
-    pass
+    """ divides 1st number by 2nd number and returns a floating point"""
+    return float(num1) / num2
 
 def square(num1):
-    pass
+    """returns the square of the inputted number"""
+    return num1 * num1
 
 def cube(num1):
     pass
